@@ -12,4 +12,4 @@
             self.areaTF.resignFirstResponder()
         }
 ```
-![](/path/to/show.jpg)
+![](/path/to/show.gif)
