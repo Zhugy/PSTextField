@@ -12,4 +12,4 @@
             self.areaTF.resignFirstResponder()
         }
 ```
-![](/path/to/show.gif)
+<img src="/Screenshots/show.gif" />
